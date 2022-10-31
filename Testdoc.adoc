@@ -1,0 +1,7 @@
+# Heading1
+
+* Bullet1
+** Bullet1.1
+* Bullet 2
+
+For more info, see https://docs.teradata.com/r/Teradata-Query-Service-Installation-Configuration-and-Usage-Guide-for-Customers/April-2022/Overview/Teradata-Query-Service[Query Service ICU Guide]
